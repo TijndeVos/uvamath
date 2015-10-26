@@ -77,7 +77,7 @@ Science Park 904, 1098 XH Amsterdam\\
 \pagestyle{empty}
 \vspace*{30pt}
 {\centering
-{\LARGE \textbf{\bf \@title}\par}\bigskip
+{\LARGE \textbf{\bfseries \@title}\par}\bigskip
 {\Large \@authors
 \par}\bigskip
 {\Large \@date\par}\bigskip\bigskip
