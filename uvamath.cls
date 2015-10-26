@@ -107,7 +107,7 @@ Science Park 904, 1098 XH Amsterdam\\
 \authortextplural:\\ \indent\@authordetails\\
 \fi
 \if\@supervisors\relax\else \supervisorstext: \@supervisors\\ \fi
-\secondgradertext: \@secondgrader\\
+\if\@secondgrader\relax\else \secondgradertext: \@secondgrader\\ \fi
 \datetext: \@date
 
 \bigskip\noindent
