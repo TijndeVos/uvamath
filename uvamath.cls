@@ -1,5 +1,5 @@
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{uvamath}[2014/01/20 0.2 Bachelor wiskunde LaTeX document class]
+\ProvidesClass{uvamath}[2015/10/27 0.3 Bachelor wiskunde LaTeX document class]
 \RequirePackage{graphicx}
 
 \DeclareOption{english}{
