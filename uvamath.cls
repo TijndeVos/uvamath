@@ -40,7 +40,7 @@
 \def\secondyearprojecttext{Projectverslag Wiskunde jaar 2}
 \def\compalgtext{Computeralgebra-\LaTeX}
 \def\kdvitext{Korteweg-de Vries Instituut voor Wiskunde}
-\def\uvatext{University van Amsterdam}
+\def\uvatext{Universiteit van Amsterdam}
 \def\fnwitext{Faculteit der Natuurwetenschappen, Wiskunde en Informatica}
 \def\ioptext{Institute of Physics}
 \def\ivitext{Instituut voor Informatica}
